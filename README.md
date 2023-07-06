@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natanael Silva
 - 👀 I’m interested in cinema, books and games.
 - 🌱 I’m currently learning life.
-- 📫 How to reach me: natanaelsilva@tecnico.ulisboa.pt
+- 📫 How to reach me: natanaelprgsilva@gmail.com
 
 <!---
 NatanaelSilva26/NatanaelSilva26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
